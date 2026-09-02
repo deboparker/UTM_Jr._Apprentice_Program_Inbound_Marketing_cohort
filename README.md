@@ -2,8 +2,8 @@
 ![Don Draper Timeline](don-draper-timeline.png)
 
 
-Repository for my work in UTM's Q4 2026 Marketing Apprentice Program,
-placed on the Outbound Marketing team.
+This repository contains work from UTM's Q4 2026 Marketing Apprentice Program,
+in which I was placed on the Outbound Marketing team.
 
 ## About the Program
 UTM (formerly Austin Urban Tech Movement) runs a structured apprenticeship
