@@ -16,5 +16,5 @@ produced during the apprenticeship.
 | # | Sprint | Status | Notes |
 |---|--------|--------|-------|
 | 01 | [Kickoff Sprint](./01-Kickoff-Sprint) | ✅ Complete | |
-| 02 | [Interview Sprint](./02-Interview-Sprint) | ✅ Complete | Head-Heart-Hustle exercise, audience research |
+| 02 | [Interview Sprint](./02-Interview-Sprint) | ✅ Complete | [Audience research](./02-Interview-Sprint/Customer-Persona-Profile.md), Head-Heart-Hustle exercise |
 | 03 | Final Campaign — Rethink Austin | ⬜ Not started | Presenting Nov 14, 2026 |
