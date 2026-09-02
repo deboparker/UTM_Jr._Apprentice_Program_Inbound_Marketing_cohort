@@ -1,5 +1,5 @@
 # UTM Jr. Apprentice Program — Inbound Marketing Cohort
-
+![Don Draper Timeline](don-draper-timeline.png)
 Repository for my work in UTM's Q4 2026 Marketing Apprentice Program,
 placed on the Outbound Marketing team.
 
