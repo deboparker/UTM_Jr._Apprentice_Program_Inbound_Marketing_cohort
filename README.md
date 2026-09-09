@@ -6,9 +6,9 @@ This repository contains work from UTM's Q4 2026 Marketing Apprentice Program,
 in which I was placed on the Outbound Marketing team.
 
 ## About the Program
-UTM (formerly Austin Urban Tech Movement) runs a structured apprenticeship
-culminating in a final campaign presentation at Rethink Austin
-(November 14, 2026).
+UTM (formerly Austin Urban Tech Movement) runs a structured apprenticeship in 
+which apprentices will present their culminating deliverables at Rethink Austin
+November 14, 2026.
 
 ## What's in this repo
 Campaign strategy documents, outbound marketing assets, and project work
