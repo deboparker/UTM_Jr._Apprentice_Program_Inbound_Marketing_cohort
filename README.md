@@ -6,7 +6,7 @@ This repository contains work from UTM's Q4 2026 Marketing Apprentice Program,
 in which I was placed on the Outbound Marketing team.
 
 ## About the Program
-UTM (formerly Austin Urban Tech Movement) runs a structured apprenticeship in 
+Formerly Austin Urban Tech Movement, UTM runs a structured apprenticeship in 
 which apprentices will present their culminating deliverables at Rethink Austin
 November 14, 2026.
 
