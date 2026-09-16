@@ -9,6 +9,16 @@ in which I was placed on the Outbound Marketing team.
 Formerly Austin Urban Tech Movement, UTM runs a structured apprenticeship in 
 which apprentices will present their culminating deliverables at Rethink Austin
 November 14, 2026.
+## How the Program is designed ##
+ The Core Program Mechanics & Expectations:
+
+-Focus on Performance: Students are expected to build operating speed and achieve reps at a professional standard rather than simply learning theoretical vocabulary.
+
+-Client-Level Feedback: Work is evaluated directly against client expectations; students learn to handle real feedback when output is not good enough.
+
+-Mentorship & Trade-off: Operates as a high-mentorship, unpaid structure for three months (~10 hours per week) leading to an up-or-out performance review at 12 months.
+
+Execution & Collaboration: Students gain experience operating under real workplace speed, switching roles during team agenda meetings, managing tight weekly/monthly deadlines, and mastering collaboration tools in Google Suite.
 
 ## What's in this repo
 Campaign strategy documents, outbound marketing assets, and project work
